@@ -1,78 +1,22 @@
 [
-  {
-    "number": "6281226534233",
-    "status": "active"
-  },
-  {
-    "number": "6281325184122",
-    "status": "active"
-  },
-  {
-    "number": "6281325194789",
-    "status": "active"
-  },
-  {
-    "number": "6281917769128",
-    "status": "active"
-  },
-  {
-    "number": "6282185642165",
-    "status": "active"
-  },
-  {
-    "number": "6283106046617",
-    "status": "active"
-  },
-  {
-    "number": "6283122016278",
-    "status": "active"
-  },
-  {
-    "number": "6283194746362",
-    "status": "active"
-  },
-  {
-    "number": "6283194745049",
-    "status": "active"
-  },
-  {
-    "number": "6283846237019",
-    "status": "active"
-  },
-  {
-    "number": "6283867391861",
-    "status": "active"
-  },
-  {
-    "number": "6283870483267",
-    "status": "active"
-  },
-  {
-    "number": "6285650805375",
-    "status": "active"
-  },
-  {
-    "number": "6285837059681",
-    "status": "active"
-  },
-  {
-    "number": "6285888914543",
-    "status": "active"
-  },
-  {
-    "number": "62882020996884",
-    "status": "active"
-  },
-  {
-    "number": "6289515727731",
-    "status": "active"
-  },
-  {
-    "number": "6289526686853",
-    "status": "active"
-  },
-  {
-    "number": "6289654427584",
-    "status": "active"
-  }
+  {"number": "6281226534233", "status": "active"},
+  {"number": "6281325184122", "status": "active"},
+  {"number": "6281325194789", "status": "active"},
+  {"number": "6281917769128", "status": "active"},
+  {"number": "6282185642165", "status": "active"},
+  {"number": "6283106046617", "status": "active"},
+  {"number": "6283122016278", "status": "active"},
+  {"number": "6283194746362", "status": "active"},
+  {"number": "6283194745049", "status": "active"},
+  {"number": "6283846237019", "status": "active"},
+  {"number": "6283867391861", "status": "active"},
+  {"number": "6283870483267", "status": "active"},
+  {"number": "6285650805375", "status": "active"},
+  {"number": "6285837059681", "status": "active"},
+  {"number": "6285888914543", "status": "active"},
+  {"number": "62882020996884", "status": "active"},
+  {"number": "6289515727731", "status": "active"},
+  {"number": "6289526686853", "status": "active"},
+  {"number": "6289654427584", "status": "active"},
+  {"number": "6283195227796", "status": "active"}
 ]
